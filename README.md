@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhil Ashok</h1>
 <h3 align="center">A passionate tech-savvy individual</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilashok1996&label=Profile%20views&color=0e75b6&style=flat" alt="akhilashok1996" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilashok1996&label=Profile%20views&color=0e75b6&style=flat" alt="akhil.ashok1996" /> </p>
 
 - 🔭 I’m currently working as **IT Support Engineer**
 
